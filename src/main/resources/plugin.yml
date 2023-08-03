@@ -1,0 +1,4 @@
+name: minion_farmer
+version: '${project.version}'
+main: org.rammex.minion_farmer.Minion_farmer
+api-version: 1.19
